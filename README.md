@@ -15,13 +15,13 @@ Omnifood focuses on clean design, smooth user experience, and modern web develop
 ### Hero Section
 
 ```md
-![Omnifood Hero Section](./screenshots/hero.png)
+![Omnifood Hero Section](./screenshots/hero-desktop.png)
 ```
 
 ### Responsive Design
 
 ```md
-![Omnifood Responsive Design](./screenshots/responsive.png)
+![Omnifood Responsive Design](./screenshots/hero-mobile.png)
 ```
 
 ---

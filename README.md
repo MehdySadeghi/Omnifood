@@ -6,13 +6,11 @@ Omnifood focuses on clean design, smooth user experience, and modern web develop
 
 ## 🚀 Live Demo
 
-**Try it here:** https://travel-list-by-mehdy.netlify.app
+**Try it here:** https://omnifoodbymehdi.netlify.app/
 
 ---
 
 ## 📸 Preview
-
-> Add screenshots of your application here.
 
 ### Hero Section
 
